@@ -12,7 +12,7 @@ int main()
     const int gravity{1};
     
 
-    // rectangle dimensions
+    // rectangle dimentions
     const int rect_width{50};
     const int rect_height{80};
 
